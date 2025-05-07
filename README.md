@@ -10,7 +10,7 @@ I removed the line cause error in Version 1.1 as seen below.
 
 <img width="444" alt="V1 1" src="https://github.com/user-attachments/assets/8b780f34-e8b7-4e37-a2ac-d341f52ea7c1" />
 
-Version 1.0 uploaded device with a usb cable.
+Version 1.0 uploaded to device with a usb cable from computer.
 
 Version 1.1 updated with OTA from github repo. [Click](https://github.com/republicofmakers/ESP32-OTA-Versions)
 
